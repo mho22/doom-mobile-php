@@ -1,0 +1,26 @@
+{
+    "private" : true,
+    "type" : "module",
+    "scripts" : {
+        "dev:vite:mobile" : "vite --config vite.mobile.config.js",
+        "dev:tauri:mobile:android" : "tauri android dev",
+        "tauri" : "tauri"
+    },
+    "devDependencies" : {
+        "@tauri-apps/cli" : ">=2.0.0-beta.13",
+        "autoprefixer" : "^10.4.19",
+        "laravel-vite-plugin" : "^1.0.2",
+        "postcss" : "^8.4.38",
+        "tailwindcss" : "^3.4.3",
+        "typescript" : "^5.4.5",
+        "vite" : "^5.2.9"
+    },
+    "dependencies": {
+        "@inertiajs/vue3" : "^1.0.16",
+        "@tauri-apps/api" : ">=2.0.0-beta.8",
+        "@tauri-apps/plugin-shell" : ">=2.0.0-beta.2",
+        "@vitejs/plugin-vue" : "^5.0.4",
+        "js-dos" : "^7.5.0",
+        "vue" : "^3.4.23"
+    }
+}

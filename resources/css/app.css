@@ -1,0 +1,6 @@
+@import '../../public/js-dos/js-dos.css';
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

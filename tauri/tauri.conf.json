@@ -1,0 +1,35 @@
+{
+    "productName" : "DOOM Mobile PHP",
+    "version" : "0.0.0",
+    "identifier" : "php.mobile.doom",
+    "build" : {
+        "devUrl" : "http://localhost:2222",
+        "frontendDist" : "../public"
+    },
+    "app" : {
+        "windows" : [ {
+            "title" : "DOOM Mobile PHP",
+            "visible" : false,
+            "width" : 1280,
+            "height" : 720
+        } ],
+        "security" : {
+            "csp" : null
+        }
+    },
+    "bundle" : {
+        "active" : true,
+        "android" : {
+            "minSdkVersion" : 24
+        },
+        "iOS" : {},
+        "targets" : "all",
+        "icon" : [
+            "icons/32x32.png",
+            "icons/128x128.png",
+            "icons/128x128@2x.png",
+            "icons/icon.icns",
+            "icons/icon.ico"
+        ]
+    }
+}
