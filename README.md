@@ -73,4 +73,4 @@ Don’t hesitate to give me some feed backs and suggestions to improve the proje
 
 <br>
 
-Based on [NativePHP](https://nativephp.com/) and [Doom native PHP](https://github.com/mho22/doom-native-php). Special thanks to [Simon Hamp](https://github.com/simonhamp).
+Based on [NativePHP](https://nativephp.com/) and [Doom native PHP](https://github.com/mho22/doom-native-php). Special thanks to [Simon Hamp](https://github.com/simonhamp) and [Marcel Pociot](https://github.com/mpociot).
